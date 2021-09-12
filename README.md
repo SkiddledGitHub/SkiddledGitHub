@@ -13,7 +13,7 @@ pcs / laptops / mobile devices that i have:
 
 social medias:
  - youtube: [SkilledHasBadPC](https://youtube.com/channel/UC2SUxigk_uSUbojfRu9pBYQ) (inactive)
- - discord: SkilledHasBadPC#1804
+ - discord: SkilledHasBadPC#7964
  - minecraft: [SkilledHasBadPC](https://namemc.com/SkilledHasBadPC), [voidway](https://namemc.com/voidway) (alt)
 
 if you read this
