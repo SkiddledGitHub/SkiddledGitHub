@@ -16,6 +16,6 @@ social medias:
  - discord: SkilledHasBadPC#7964
  - minecraft: [SkilledHasBadPC](https://namemc.com/SkilledHasBadPC), [voidway](https://namemc.com/voidway) (alt)
 
-if you read this
-welcome to the lowest of the low of github
+if you are reading this  
+welcome to the lowest of the low of github  
 
