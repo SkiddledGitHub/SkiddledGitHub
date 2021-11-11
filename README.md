@@ -1,5 +1,5 @@
-professional pascal idiot + linux enjoyer
-enjoys creating bad spaghetti code in pascal using [lazarus](https://www.lazarus-ide.org/)  
+hi  
+i am an average linux user that enjoys creating bad spaghetti code in pascal using [lazarus](https://www.lazarus-ide.org/).  
 discord: SkilledHasBadPC#7964  
   
 operating systems that i use as daily driver:  
