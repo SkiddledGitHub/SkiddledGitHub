@@ -1,8 +1,8 @@
 professional pascal idiot + linux enjoyer
-enjoys creating bad spaghetti code in pascal using [lazarus](https://www.lazarus-ide.org/)
+enjoys creating bad spaghetti code in pascal using [lazarus](https://www.lazarus-ide.org/)  
 discord: SkilledHasBadPC#7964  
   
-operating systems that i uses as daily driver:  
+operating systems that i use as daily driver:  
  - arch linux  
  - windows 10  
  - android 6  
