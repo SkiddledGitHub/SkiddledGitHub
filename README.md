@@ -1,1 +1,1 @@
-[bio](https://solo.to/skilledhasbadpc)
+[bio](https://solo.to/skiddled)
